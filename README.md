@@ -41,7 +41,7 @@ A Flask-based GraphQL API that allows users to query Indian bank and branch info
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bank-branch-graphql.git
+git clone https://github.com/aarushdeshmukh/bank-branch-graphql.git
 cd bank-branch-graphql
 ```
 
@@ -271,15 +271,15 @@ The application uses an automated database setup process:
 
 ## ⏱️ Development Timeline
 
-**Total Time:** Approximately 1 week
+**Total Time:** Approximately 4 days 
 
 I took time to properly understand each component and ensure high code quality:
 
 - **Day 1-2:** Database models and configuration
 - **Day 3:** GraphQL schema implementation
 - **Day 4:** Flask application and API integration
-- **Day 5:** Comprehensive testing
-- **Day 6-7:** Documentation and code refinement
+- **Day 4:** Comprehensive testing
+- **Day 4:** Documentation and code refinement
 
 ---
 
@@ -320,8 +320,8 @@ This project was created as an assignment submission.
 
 ## 👤 Author
 
-**[Your Name]**  
-GitHub: [@yourusername](https://github.com/yourusername)
+**[aarush deshmukh]**  
+GitHub: [@yourusername](https://github.com/aarushdeshmukh)
 
 ---
 
