@@ -321,7 +321,7 @@ This project was created as an assignment submission.
 ## 👤 Author
 
 **[aarush deshmukh]**  
-GitHub: [@yourusername](https://github.com/aarushdeshmukh)
+GitHub: [@aarushdeshmukh](https://github.com/aarushdeshmukh)
 
 ---
 
